@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="ea1e2c7b-ff0b-43af-8237-aec387bc1e6d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/bojun.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/bojun.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,11 +35,16 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/images" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\smushpv\编程\学习\Bootstrap\bojun\static\images" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -64,7 +71,7 @@
       <workItem from="1580882059402" duration="5592000" />
       <workItem from="1581310617141" duration="613000" />
       <workItem from="1582022009243" duration="4992000" />
-      <workItem from="1582027771597" duration="1392000" />
+      <workItem from="1582027771597" duration="3259000" />
     </task>
     <task id="LOCAL-00001" summary="202002182036">
       <created>1582029372326</created>
