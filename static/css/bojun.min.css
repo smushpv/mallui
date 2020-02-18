@@ -13,6 +13,7 @@
     background-color: lightgrey;
     flex-wrap: wrap;
 }
+/*--------------item-----------------*/
 .flex-item {
     background-color: cornflowerblue;
     width: 48%;
@@ -25,6 +26,14 @@
 .item-container{
     background: #d6e9c6;
     width: 100%;
-    height: 70%;
+    height: 65%;
  }
+.item-bottom{
+    width: 100%;
+    height: 35%;
+    background: #ffffff;
+    padding: 5px;
+    font-size: 1em;
+}
+
 
